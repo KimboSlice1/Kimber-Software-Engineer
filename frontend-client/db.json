@@ -1,0 +1,44 @@
+{
+    "kimber": [
+        {
+            "id": 1,
+            "fact": "Kimber Graduated High School in 2012",
+            "description": "From Logan Elm HS in Circleville, OH. 2012 was the absolute peak of fashion and you won't change Kimbers mind about it."
+        }, 
+        {
+            "id": 2,
+            "fact": "Kimber Graduated College in 2017",
+            "description": "After taking a gap year Kimber enrolled at Ohio University in 2013 and studied Early Childhood Education. She earned a 3.499 GPA and she is still salty about being so close achieving honors. She blames the biology course she had to take her sophomore year."
+        },
+        {
+            "id": 3,
+            "fact": "Kimber Worked 3 Different Teaching Jobs",
+            "description": "Kimber was a preschool teacher at various public schools in central Ohio. Her final 2 years teaching she focused on special education."
+        }, 
+        {
+            "id": 4,
+            "fact": "Kimber Has A Variety of Transferable Soft Skills",
+            "description": "Teaching alongside groups of people allowed Kimber to develop a variety of soft skills that are helpful in different careers. Soft skills like communication, teamwork, thinking outside of the box, problem solving, emotional intelligence, and the ability to THRIVE under pressure."
+        }, 
+        {
+            "id": 5,
+            "fact": "Kimber Attended A Teach Bootcamp",
+            "description": "Kimber attended a tech bootcamp, Flatiron School, for 18 weeks in 2022-2023. Her focus of study was in software engineering and she learned different coding languages and frameworks."
+        }, 
+        {
+            "id": 6,
+            "fact": "Kimber Knows a Variety of Coding Languages and Frameworks",
+            "description": "Kimber can code using JavaScript, React, Ruby, Ruby on Rails, CSS, and HTML."
+        }, 
+        {
+            "id": 7,
+            "fact": "Kimber Is a Lifelong Learner",
+            "description": "Kimber intends to focus on learning Python and C++ next."
+        }, 
+        {
+            "id": 8,
+            "fact": "Kimber Has a Love For Laughing",
+            "description": "Kimber loves making jokes and laughing at jokes. The more inappropriate and dry the better! Frequenting comedy shows is one of her favorite hobbies."
+        }
+    ]
+}

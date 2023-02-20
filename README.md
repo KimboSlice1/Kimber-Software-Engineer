@@ -1,7 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my personal website. On this website you will find information about me, some of my previous projects, and even a little jokey here and there. 
+
+
 
 Things you may want to cover:
 
